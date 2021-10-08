@@ -1,0 +1,31 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "86d2467c-2600-41cc-b2b9-8c49d3f44266",
+    "ServiceBus:ConnectionString": "Endpoint=sb://dev-partner-comms-sbs.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KaDicCSJb+I+RtYO4pqDeGq8MJ9CgccJDQ2vQh1a5Ac=",
+    "ServiceBus:Retry:MaxRetries": 3,
+    "ServiceBus:Retry:Delay": 3,
+    "ServiceBus:Retry:MaxDelay": 6,
+    "ServiceBus:LONGURL:Queue": "comms-paylink-sbq",
+    "ServiceBus:SHORTURL-SMS:Topic": "comms-sms-sbt",
+    "ServiceBus:SHORTURL-Email:Topic": "comms-email-sbt",
+    "Host": "DEV",
+    "DEV": "devv8.thegoodguys.com.au",
+    "TST": "tstv8.thegoodguys.com.au",
+    "UAT": "uatv8.thegoodguys.com.au",
+    "catalogId": 30000,
+    "storeId": 900,
+    "langId": -1,
+    "ServiceBus:SHORTURL-EMAIL:Topic": "comms-email-sbt",
+    "APIM:Base:Uri:Client": "https://api-npd.thegoodguys.com.au",
+    "APIM:Header:Key": "Api-Key",
+    "APIM:Header:Value": "624034c388244b2bbb0ff75bfc195cb9",
+    "ShortURLEndPoint": "https://api-npd.thegoodguys.com.au/dev/partner/comms/surl/item",
+    "PollyCount": 3,
+    "PollySpan": 3000,
+    "KVEndpointURL ": "https://dev-partner-kvt.vault.azure.net",
+    "LongURL": "https://{hostvalue}/PayOnlineView?catalogId={catalogId}&storeId={storeId}&langId={langId}&hash={dockethash}"
+  }
+}

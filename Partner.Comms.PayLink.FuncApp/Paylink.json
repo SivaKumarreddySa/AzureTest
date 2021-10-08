@@ -1,0 +1,202 @@
+{
+  "CHANNEL_CONFIG": [
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -1,
+      "CodeDescr": "Web Channel",
+      "ActiveFlag": "Y",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -12,
+      "CodeDescr": "Mobile POS",
+      "ActiveFlag": "Y",
+      "SMS": null,
+      "Email": null
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -13,
+      "CodeDescr": "Lakeland eBay",
+      "ActiveFlag": "N",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -14,
+      "CodeDescr": "Lakeland Web",
+      "ActiveFlag": "N",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -15,
+      "CodeDescr": "D & G Claims",
+      "ActiveFlag": "N",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -16,
+      "CodeDescr": "B2B Marketplace",
+      "ActiveFlag": "N",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -17,
+      "CodeDescr": "B2S Staff Sales",
+      "ActiveFlag": "Y",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -18,
+      "CodeDescr": "Home Services",
+      "ActiveFlag": "Y",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -19,
+      "CodeDescr": "Telstra Business Solutions",
+      "ActiveFlag": "N",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -2,
+      "CodeDescr": "Physical Store",
+      "ActiveFlag": "Y",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -20,
+      "CodeDescr": "Sales & Service Hub",
+      "ActiveFlag": "Y",
+      "SMS": "Primary",
+      "Email": "Primary"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -21,
+      "CodeDescr": "SquareTrade Claims",
+      "ActiveFlag": "N",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -3,
+      "CodeDescr": "Kiosk",
+      "ActiveFlag": "Y",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -4,
+      "CodeDescr": "Telesales",
+      "ActiveFlag": "Y",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -5,
+      "CodeDescr": "B2B External",
+      "ActiveFlag": "N",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -7,
+      "CodeDescr": "Mobile",
+      "ActiveFlag": "Y",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": -8,
+      "CodeDescr": "Tablet",
+      "ActiveFlag": "Y",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": 10,
+      "CodeDescr": "Agency Sales",
+      "ActiveFlag": "N",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": 11,
+      "CodeDescr": "In Store Commercial Sales",
+      "ActiveFlag": "N",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": 4,
+      "CodeDescr": "eBay",
+      "ActiveFlag": "Y",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": 6,
+      "CodeDescr": "Trade Me",
+      "ActiveFlag": "N",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    },
+    {
+      "Comms": "Paylink",
+      "CodeType": "CHANNEL_ID",
+      "CodeID": 9,
+      "CodeDescr": "Commercial Sales",
+      "ActiveFlag": "N",
+      "SMS": "Delivery",
+      "Email": "Delivery"
+    }
+  ]
+}
