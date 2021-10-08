@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "logging": {
+    "logLevel": {
+      "Partner.Comms.Service.CommsService": "Information",
+      "Partner.Comms.Service.MessageService": "Information",
+      "Partner.Comms.Common.ErrorService": "Information",
+      "Partner.Comms.Common.HttpProxy": "Information"
+    },
+    "fileLoggingMode": "never",
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true
+      }
+    }
+  }
+}

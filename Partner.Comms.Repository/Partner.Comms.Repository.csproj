@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.5.0-beta.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Partner.Comms.Domain\Partner.Comms.Domain.csproj" />
+    <ProjectReference Include="..\Partner.Comms.DTO\Partner.Comms.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

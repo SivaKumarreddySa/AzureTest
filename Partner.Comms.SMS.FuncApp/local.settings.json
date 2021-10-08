@@ -1,0 +1,19 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "86d2467c-2600-41cc-b2b9-8c49d3f44266",
+    "ServiceBus:ConnectionString": "Endpoint=sb://dev-partner-comms-sbs.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KaDicCSJb+I+RtYO4pqDeGq8MJ9CgccJDQ2vQh1a5Ac=",
+    "ServiceBus:Retry:MaxRetries": 3,
+    "ServiceBus:Retry:Delay": 3,
+    "ServiceBus:Retry:MaxDelay": 6,
+    "APIM:Base:Uri:Client": "https://api-npd.thegoodguys.com.au",
+    "APIM:Header:Key": "Api-Key",
+    "APIM:Header:Value": "099a43c15f544c38814041963a218359",
+    "SMSEndPoint": "https://api-npd.thegoodguys.com.au/dev/partner/comms/sms/send",
+    "PollyCount": 3,
+    "PollySpan": 3000,
+    "KVEndpointURL ": "https://dev-partner-kvt.vault.azure.net"
+  }
+}
